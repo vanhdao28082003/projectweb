@@ -1,0 +1,35 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^7.0.1",
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@vitejs/plugin-vue-jsx": "^3.1.0",
+    "ant-design-vue": "^4.1.2",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
+    "js-cookie": "^3.0.5",
+    "multer": "^1.4.5-lts.1",
+    "unplugin-vue-components": "^0.26.0",
+    "vee-validate": "^4.12.6",
+    "vue": "^3.3.11",
+    "vue-router": "^4.3.0",
+    "vue3-toastify": "^0.2.1",
+    "vuejs-paginate": "^2.1.0",
+    "yarb": "^0.8.0",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "sass": "^1.72.0",
+    "vite": "^5.0.10"
+  }
+}
+
